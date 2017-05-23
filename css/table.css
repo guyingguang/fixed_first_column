@@ -1,0 +1,11 @@
+.table{width:100%;overflow-x: scroll;background-color:#7c95b5;}
+
+.fixedTable{width:160%;text-align: center;color:#fff;font-size:14px; border-collapse:collapse;}
+
+.fixedTable tr{line-height: 30px;border:1px solid #fff;}
+
+.fixedTable tr:first-child{height:40px;line-height: 40px;background-color:cadetblue;}
+
+.fixedTable td:first-child{position:absolute;width:105px;background-color:cadetblue;border:1px solid #fff;margin:-1px 0px 0px -1px;}
+
+.fixedColumn{width:99px;}
